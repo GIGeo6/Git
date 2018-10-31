@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
         <title>Groups</title>
@@ -6,8 +7,8 @@
         <h2>Registration</h2>
         <a href="index.php">Back<br/><br/>
         <form action="register.php" method="POST">
-            Enter email: <input type="text" name="email" required="required" /> <br/>
-            Enter password: <input type="password" name="password" required="required" /> <br/>
+            Enter Email: <input type="text" name="email" required="required" /> <br/>
+            Enter Password: <input type="password" name="password" required="required" /> <br/>
             <input type="submit" value="Register" />
         </form>
     </body>
